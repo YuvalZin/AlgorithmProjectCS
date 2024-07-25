@@ -3,7 +3,7 @@ This is a final project for our advanced algorithm course in our computer scienc
 
 Code: the full code of the game is in here
 
-PPT: the presentation that we made according to the instruction
+PowerPoint: the presentation that we made according to the instruction
 
 Videos: the requested videos of the PPT and the game run
 
