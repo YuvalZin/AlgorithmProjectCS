@@ -1,2 +1,2 @@
 # AlgorithmProjectCS
-This is a final projext for our advanced algorithm course in our computer science degree
+This is a final project for our advanced algorithm course in our computer science degree
