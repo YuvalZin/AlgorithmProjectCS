@@ -8,3 +8,5 @@ PPT: the presentation that we made according to the instruction
 Videos: the requested videos of the PPT and the game run
 
 SRS Document: the SRS document according to the instructions
+
+Zipped Submission: all of the files zipped according to section 6 of the submission requirements 
